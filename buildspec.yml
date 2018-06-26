@@ -17,4 +17,4 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date` 123
-      - echo updated? sarenai?
+      - echo updated? sarenai? sareta.
